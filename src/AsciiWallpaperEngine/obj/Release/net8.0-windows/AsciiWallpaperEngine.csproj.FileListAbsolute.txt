@@ -1,8 +1,6 @@
 /home/runner/work/ASCII-Engine/ASCII-Engine/src/AsciiWallpaperEngine/obj/Release/net8.0-windows/AsciiWallpaperEngine.csproj.AssemblyReference.cache
-/home/runner/work/ASCII-Engine/ASCII-Engine/src/AsciiWallpaperEngine/obj/Release/net8.0-windows/MainWindow.baml
 /home/runner/work/ASCII-Engine/ASCII-Engine/src/AsciiWallpaperEngine/obj/Release/net8.0-windows/Views/WallpaperWindow.baml
 /home/runner/work/ASCII-Engine/ASCII-Engine/src/AsciiWallpaperEngine/obj/Release/net8.0-windows/App.baml
-/home/runner/work/ASCII-Engine/ASCII-Engine/src/AsciiWallpaperEngine/obj/Release/net8.0-windows/MainWindow.g.cs
 /home/runner/work/ASCII-Engine/ASCII-Engine/src/AsciiWallpaperEngine/obj/Release/net8.0-windows/Views/MainWindow.g.cs
 /home/runner/work/ASCII-Engine/ASCII-Engine/src/AsciiWallpaperEngine/obj/Release/net8.0-windows/Views/WallpaperWindow.g.cs
 /home/runner/work/ASCII-Engine/ASCII-Engine/src/AsciiWallpaperEngine/obj/Release/net8.0-windows/App.g.cs
