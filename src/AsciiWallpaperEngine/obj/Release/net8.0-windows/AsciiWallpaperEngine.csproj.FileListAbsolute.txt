@@ -1,11 +1,3 @@
-/home/runner/work/ASCII-Engine/ASCII-Engine/src/AsciiWallpaperEngine/obj/Release/net8.0-windows/AsciiWallpaperEngine.csproj.AssemblyReference.cache
-/home/runner/work/ASCII-Engine/ASCII-Engine/src/AsciiWallpaperEngine/obj/Release/net8.0-windows/Views/WallpaperWindow.baml
-/home/runner/work/ASCII-Engine/ASCII-Engine/src/AsciiWallpaperEngine/obj/Release/net8.0-windows/App.baml
-/home/runner/work/ASCII-Engine/ASCII-Engine/src/AsciiWallpaperEngine/obj/Release/net8.0-windows/Views/MainWindow.g.cs
-/home/runner/work/ASCII-Engine/ASCII-Engine/src/AsciiWallpaperEngine/obj/Release/net8.0-windows/Views/WallpaperWindow.g.cs
-/home/runner/work/ASCII-Engine/ASCII-Engine/src/AsciiWallpaperEngine/obj/Release/net8.0-windows/App.g.cs
-/home/runner/work/ASCII-Engine/ASCII-Engine/src/AsciiWallpaperEngine/obj/Release/net8.0-windows/AsciiWallpaperEngine_MarkupCompile.cache
-/home/runner/work/ASCII-Engine/ASCII-Engine/src/AsciiWallpaperEngine/obj/Release/net8.0-windows/AsciiWallpaperEngine_MarkupCompile.lref
 /home/runner/work/ASCII-Engine/ASCII-Engine/src/AsciiWallpaperEngine/bin/Release/net8.0-windows/AsciiWallpaperEngine
 /home/runner/work/ASCII-Engine/ASCII-Engine/src/AsciiWallpaperEngine/bin/Release/net8.0-windows/AsciiWallpaperEngine.deps.json
 /home/runner/work/ASCII-Engine/ASCII-Engine/src/AsciiWallpaperEngine/bin/Release/net8.0-windows/AsciiWallpaperEngine.runtimeconfig.json
@@ -22,6 +14,14 @@
 /home/runner/work/ASCII-Engine/ASCII-Engine/src/AsciiWallpaperEngine/bin/Release/net8.0-windows/runtimes/win-x64/native/opencv_videoio_ffmpeg4100_64.dll
 /home/runner/work/ASCII-Engine/ASCII-Engine/src/AsciiWallpaperEngine/bin/Release/net8.0-windows/runtimes/win-x86/native/OpenCvSharpExtern.dll
 /home/runner/work/ASCII-Engine/ASCII-Engine/src/AsciiWallpaperEngine/bin/Release/net8.0-windows/runtimes/win-x86/native/opencv_videoio_ffmpeg4100.dll
+/home/runner/work/ASCII-Engine/ASCII-Engine/src/AsciiWallpaperEngine/obj/Release/net8.0-windows/AsciiWallpaperEngine.csproj.AssemblyReference.cache
+/home/runner/work/ASCII-Engine/ASCII-Engine/src/AsciiWallpaperEngine/obj/Release/net8.0-windows/Views/WallpaperWindow.baml
+/home/runner/work/ASCII-Engine/ASCII-Engine/src/AsciiWallpaperEngine/obj/Release/net8.0-windows/App.baml
+/home/runner/work/ASCII-Engine/ASCII-Engine/src/AsciiWallpaperEngine/obj/Release/net8.0-windows/Views/MainWindow.g.cs
+/home/runner/work/ASCII-Engine/ASCII-Engine/src/AsciiWallpaperEngine/obj/Release/net8.0-windows/Views/WallpaperWindow.g.cs
+/home/runner/work/ASCII-Engine/ASCII-Engine/src/AsciiWallpaperEngine/obj/Release/net8.0-windows/App.g.cs
+/home/runner/work/ASCII-Engine/ASCII-Engine/src/AsciiWallpaperEngine/obj/Release/net8.0-windows/AsciiWallpaperEngine_MarkupCompile.cache
+/home/runner/work/ASCII-Engine/ASCII-Engine/src/AsciiWallpaperEngine/obj/Release/net8.0-windows/AsciiWallpaperEngine_MarkupCompile.lref
 /home/runner/work/ASCII-Engine/ASCII-Engine/src/AsciiWallpaperEngine/obj/Release/net8.0-windows/Views/MainWindow.baml
 /home/runner/work/ASCII-Engine/ASCII-Engine/src/AsciiWallpaperEngine/obj/Release/net8.0-windows/AsciiWallpaperEngine.g.resources
 /home/runner/work/ASCII-Engine/ASCII-Engine/src/AsciiWallpaperEngine/obj/Release/net8.0-windows/AsciiWallpaperEngine.GeneratedMSBuildEditorConfig.editorconfig

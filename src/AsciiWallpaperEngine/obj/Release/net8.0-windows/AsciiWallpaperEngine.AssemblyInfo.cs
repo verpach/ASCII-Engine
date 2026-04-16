@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AsciiWallpaperEngine")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8bebaed9d91c1760b148634f39113d6641174e53")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c40ddb62276ab05ab054933eed0f7e4d471d394b")]
 [assembly: System.Reflection.AssemblyProductAttribute("AsciiWallpaperEngine")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AsciiWallpaperEngine")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
