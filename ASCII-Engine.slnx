@@ -1,2 +1,5 @@
 <Solution>
+  <Folder Name="/src/">
+    <Project Path="src/AsciiWallpaperEngine/AsciiWallpaperEngine.csproj" />
+  </Folder>
 </Solution>
